@@ -1,0 +1,37 @@
+body{
+    color:rgb(0, 0, 0);
+background-color: 
+ce-between;
+    list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+header img {
+     width: 890px;
+     height: 790px;
+     border-radius:
+     border 10px black;
+}
+.center {
+    text-align: center;
+}
+footer img {
+width: 40px;
+height: 40px;
+}
+
+footer {
+    display: flex;
+    text-align: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
